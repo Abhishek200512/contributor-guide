@@ -36,7 +36,7 @@ A good proposal should include:
 ## Communication
 
 - GitHub Issues
-- Email: yourorg@gmail.com
+- Email: abhishekkumarpoddar64jsr@gmail.com 
 
 ---
 
